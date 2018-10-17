@@ -1,4 +1,4 @@
-#Checking an input string is Palindrome or not
+#Checking an input string is Palindrome or not (tested in Python 3.7.0)
 def checking_palindrome (given_input_string):
    filtered_input = []                                      #define list to do filtering string input
    for elem in given_input_string:
